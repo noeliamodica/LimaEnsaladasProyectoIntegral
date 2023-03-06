@@ -21,3 +21,4 @@ Sitios Web
 Links de plataforma
 Trello: (https://trello.com/invite/b/Y367NoaX/ATTI597559a8904f101346cf707bc209adb79455E24A/proyecto-integrador-lima) 
 GitHub: (https://github.com/GenaroZottele/grupo_6_lima.git)
+https://limaensaladas-production-ecc3.up.railway.app
