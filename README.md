@@ -7,18 +7,10 @@ Lima Ensaladas es un servicio de entrega de viandas para el almuerzo semanal en 
 Publico al que nos dirigimos
 La audiencia objetivo, son los contactos ya ingresados de empleados judiciales. Por logística, ya que Lima tiene una cantidad finita de repartidores, no podemos vender libremente, sino que el comprador tiene que cumplir el requisito de trabajar en alguna de las 12 direcciones de oficinas en las que entregamos en el centro (una de éstas por ejemplo es el Palacio de Tribunales, que abarca una cantidad enorme de empleados por sí solo). Por ésto el énfasis en crear una base de datos de usuarios, tener una página en la que sea necesario registrarse para poder consumir los productos.
 
-Integrantes
-Gustavo Bulaschevich
-Noelia Modica
-Florencia Rivero
-Sebastián Labonia
-Facundo Otero
-Genaro Zottele
 
-Sitios Web
-(https://www.latinosandwich.com/) (https://www.mundosalad.com.ar/) (https://www.greengosalads.com.ar/) (http://www.elclubdelaensalada.com.ar/) (https://pedilo.shop/viveverde/5491173657650)
 
 Links de plataforma
 Trello: (https://trello.com/invite/b/Y367NoaX/ATTI597559a8904f101346cf707bc209adb79455E24A/proyecto-integrador-lima) 
 GitHub: (https://github.com/GenaroZottele/grupo_6_lima.git)
-https://limaensaladas-production-ecc3.up.railway.app
+
+Demo: https://drive.google.com/file/d/1FKEFpGDLDai0C-TBi9YNNZls1PtY8Dbz/view?usp=share_link
